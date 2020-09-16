@@ -5,3 +5,4 @@
 ![cppcheck-action](https://github.com/stepin104818/Assignment-of-C-programming-and-unit-testing/workflows/cppcheck-action/badge.svg)
 ![CI](https://github.com/stepin104818/Assignment-of-C-programming-and-unit-testing/workflows/CI/badge.svg)
 ![Unit testing](https://github.com/stepin104818/Assignment-of-C-programming-and-unit-testing/workflows/Unit%20testing/badge.svg)
+![Valgrind](https://github.com/stepin104818/Assignment-of-C-programming-and-unit-testing/workflows/Valgrind/badge.svg)
